@@ -1,1 +1,1 @@
-# secret-garden-management
+# secret-garden-manager
